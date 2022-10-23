@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Java-73C3D5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Java-73C3D5?style=flat-square&logo=Python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
