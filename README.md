@@ -21,8 +21,8 @@
 <br>
 <strong>🏷️Github Status</strong>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong-minkim&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=dong-minkim&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/apiusername=dong-minkim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong-minkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 <!--
 **dong-minkim/dong-minkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
