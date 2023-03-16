@@ -1,40 +1,49 @@
-<h2>Hello World👋</h2>
-<strong>항상 배우는 개발자</strong>가 되겠습니다.
-<ul>
-</ul>
+#  About Me 🙂
+## **어제보다 오늘 더 성장하는 개발자**
+```
+ 어제보다 오늘 더 성장하는 개발자를 목표로 매일 배우려는 자세를 가지고 노력하고 있습니다.
+기술을 배움에 있어서 깊이 공부하는 것을 좋아하고, 개발할 때는 필요한 만큼 공부하여 효율적으로 적용하려 합니다.
 
-<strong>😄Language & Tool<strong>
-<div>
-<img src="https://img.shields.io/badge/Java-73C3D5?style=flat-square&logo=Java&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-</div>
+ 기술만큼 커뮤니케이션과 지식 공유를 중요하게 생각합니다.
+동료와 고객(회사)과의 커뮤니케이션으로 요구 사항 기반의 서비스를 효율적으로 만들 수 있다 생각합니다.
+익히고 싶은 기술과 공부하고 있는 기술들을 동료들과 공유함으로 동반 성장하는 즐거움을 알고 있습니다.
+```
+<br/>
+
+## 프로필
+- 이름: 김동민
+- 이메일: kimdongmin68@naver.com
+- 블로그: https://yeo-computerclass.tistory.com/
+
+## 기술 스택(Language & Tool)
+### Backend
+- Java
+- Spring Boot
+
+### Frontend
+- HTML/CSS
+- JavaScript
+- BootstrapVue
+
+### Database
+- MySQL
+- MariaDB
+- Redis
+
+### ETC
+- Git
 
 <br>
-<strong>🥇Rank</strong>
+
+## 🥇 Rank
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dutmdcjf)](https://solved.ac/dutmdcjf)
 
 <br>
-<strong>🏷️Github Status</strong>
+
+## 🏷️Github Status
 <p>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dong-minkim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong-minkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-<!--
-**dong-minkim/dong-minkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
