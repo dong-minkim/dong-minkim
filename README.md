@@ -35,9 +35,8 @@
 
 <br>
 
-<p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dong-minkim&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dong-minkim&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dutmdcjf)](https://solved.ac/dutmdcjf)
-</p>
+![dongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dong-minkim&show_icons=true&theme=material-palenight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dong-minkim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dutmdcjf)](https://solved.ac/dutmdcjf)
